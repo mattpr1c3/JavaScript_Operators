@@ -13,8 +13,6 @@ let minus = a - b;
 let multiply = a * b;
 let dividing = a / b;
 
-
-
 console.log(add);
 console.log(minus);
 console.log(multiply);
@@ -30,14 +28,13 @@ let isPresent = true;
 let firstName = "Frodo";
 let lastName = "Baggins";
 
-
-
 console.log(num + str);
 console.log(num + str2);
 console.log(num + isPresent);
 console.log(firstName + num);
 console.log(isPresent + str);
 console.log(firstName + lastName);
+
 // Exercise 3
 console.log("Exercise 3:\n==========\n");
 // YOUR CODE HERE
@@ -45,8 +42,6 @@ let val = 5;
 let str3 = "5";
 let str4 = "five";
 let isAwake = false;
-
-
 
 console.log(val == str3);
 console.log(val === str3);
